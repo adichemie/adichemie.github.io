@@ -2,7 +2,7 @@
 title: "Dr. Aditya Borah"
 ---
 
-# Dr. Aditya Borah
+Dr. Aditya Borah
 
 Assistant Professor  
 Department of Chemistry, Jengraimukh College, Assam

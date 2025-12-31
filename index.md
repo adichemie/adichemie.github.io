@@ -1,4 +1,8 @@
-Dr. Aditya Borah
+---
+title: "Dr. Aditya Borah"
+---
+
+# Dr. Aditya Borah
 
 Assistant Professor  
 Department of Chemistry, Jengraimukh College, Assam
@@ -10,5 +14,4 @@ Institute of Technology Bombay, under the supervision of Prof. Ramaswamy
 Murugavel.
 
 My research interests include molecular magnetism, electrocatalysis, and
-machine learning applied to chemical and material systems.
-
+machine learning applied to chemical and materials systems.
